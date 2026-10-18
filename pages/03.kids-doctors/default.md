@@ -1,0 +1,170 @@
+---
+title: Дитячі лікарі
+---
+<section class="medics_page">
+	<section class="container">
+		<h1>Дитячі лікарі Алергологічного центру</h1>
+		<section class="medics_page_list">
+			<div class="medics_page_record">
+				<img src="../../GravCMS/user/themes/mytheme/img/doctor2.svg">
+				<div>
+				<p class="medics_list_name">Науменко Наталія Василівна</p>
+				<p class="medics_list_spec">Завідувачка відділенням дитячої алергології. Лікар-алерголог дитячий  вищої категорії. Кандидат медичних наук </p>
+				<p>Лікар алергологічного центру</p>
+				</div>
+			</div>
+			<div class="medics_page_record">
+				<img src="../../GravCMS/user/themes/mytheme/img/doctor2.svg">
+				<div>
+				<p class="medics_list_name">Квітницька Анна Едуардівна </p>
+				<p class="medics_list_spec">Лікар-алерголог дитячий</p>
+				<p>Лікар алергологічного центру</p>
+				</div>
+			</div>
+			<div class="medics_page_record">
+				<img src="../../GravCMS/user/themes/mytheme/img/doctor2.svg">
+				<div>
+				<p class="medics_list_name">Коврига Владислава Ігорівна</p>
+				<p class="medics_list_spec">Лікар-алерголог дитячий</p>
+				<p>Лікар алергологічного центру</p>
+				</div>
+			</div>
+			<div class="medics_page_record">
+				<img src="../../GravCMS/user/themes/mytheme/img/doctor2.svg">
+				<div>
+				<p class="medics_list_name">Терещенко Юлія Миколаївна</p>
+				<p class="medics_list_spec">Лікар-алерголог дитячий</p>
+				<p>Лікар алергологічного центру</p>
+				</div>
+			</div>
+			<div class="medics_page_record">
+				<img src="../../GravCMS/user/themes/mytheme/img/doctor2.svg">
+				<div>
+				<p class="medics_list_name">Хорош Анна Анатоліївна</p>
+				<p class="medics_list_spec">Лікар-алерголог дитячий</p>
+				<p>Лікар алергологічного центру</p>
+				</div>
+			</div>
+			<div class="medics_page_record">
+				<img src="../../GravCMS/user/themes/mytheme/img/DSC_2098.jpg">
+				<div>
+				<p class="medics_list_name">Таран Степанія Миколаївна</p>
+				<p class="medics_list_spec">Лікар-алерголог дитячий вищої категорії</p>
+				<p>Лікар алергологічного центру</p>
+				</div>
+			</div>
+			<div class="medics_page_record">
+				<img src="../../GravCMS/user/themes/mytheme/img/doctor2.svg">
+				<div>
+				<p class="medics_list_name">Філатова Ірина Анатоліївна</p>
+				<p class="medics_list_spec">Лікар-алерголог дитячий вищої категорії</p>
+				<p>Лікар алергологічного центру</p>
+				</div>
+			</div>
+			<div class="medics_page_record">
+				<img src="../../GravCMS/user/themes/mytheme/img/doctor2.svg">
+				<div>
+				<p class="medics_list_name">Ванюкова Вікторія Олексіївна</p>
+				<p class="medics_list_spec">Медична сестра старша</p>
+				<p>Медична сестра алергологічного центру</p>
+				</div>
+			</div>
+			<div class="medics_page_record">
+				<img src="../../GravCMS/user/themes/mytheme/img/doctor2.svg">
+				<div>
+				<p class="medics_list_name">Коломойцева Оксана Володимирівна</p>
+				<p class="medics_list_spec">Медична сестра</p>
+				<p>Медична сестра алергологічного центру</p>
+				</div>
+			</div>
+			<div class="medics_page_record">
+				<img src="../../GravCMS/user/themes/mytheme/img/doctor2.svg">
+				<div>
+				<p class="medics_list_name">Колесник Надія Василівна</p>
+				<p class="medics_list_spec">Медична сестра</p>
+				<p>Медична сестра алергологічного центру</p>
+				</div>
+			</div>
+			<div class="medics_page_record">
+				<img src="../../GravCMS/user/themes/mytheme/img/doctor2.svg">
+				<div>
+				<p class="medics_list_name">Бабак Олександра Григорівна</p>
+				<p class="medics_list_spec">Медична сестра</p>
+				<p>Медична сестра алергологічного центру</p>
+				</div>
+			</div>
+			<div class="medics_page_record">
+				<img src="../../GravCMS/user/themes/mytheme/img/doctor2.svg">
+				<div>
+				<p class="medics_list_name">Очкур Татьяна Іванівна</p>
+				<p class="medics_list_spec">Медична сестра</p>
+				<p>Медична сестра алергологічного центру</p>
+				</div>
+			</div>
+			<div class="medics_page_record">
+				<img src="../../GravCMS/user/themes/mytheme/img/doctor2.svg">
+				<div>
+				<p class="medics_list_name">Підгорна Любов Петрівна</p>
+				<p class="medics_list_spec">Сестра-господиня</p>
+				<p>Працівник алергологічного центру</p>
+				</div>
+			</div>
+			<div class="medics_page_record">
+				<img src="../../GravCMS/user/themes/mytheme/img/doctor2.svg">
+				<div>
+				<p class="medics_list_name">Подхапова Юлія Володимирівна</p>
+				<p class="medics_list_spec">Медична сестра</p>
+				<p>Медична сестра алергологічного центру</p>
+				</div>
+			</div>
+			<div class="medics_page_record">
+				<img src="../../GravCMS/user/themes/mytheme/img/doctor2.svg">
+				<div>
+				<p class="medics_list_name">Портна Марина Сергіївна</p>
+				<p class="medics_list_spec">Медична сестра</p>
+				<p>Медична сестра алергологічного центру</p>
+				</div>
+			</div>
+			<div class="medics_page_record">
+				<img src="../../GravCMS/user/themes/mytheme/img/doctor2.svg">
+				<div>
+				<p class="medics_list_name">Стаднічук Ольга Миколаївна</p>
+				<p class="medics_list_spec">Молодша медична сестра</p>
+				<p>Медична сестра алергологічного центру</p>
+				</div>
+			</div>
+			<div class="medics_page_record">
+				<img src="../../GravCMS/user/themes/mytheme/img/doctor2.svg">
+				<div>
+				<p class="medics_list_name">Григоренко Оксана Ігорівна</p>
+				<p class="medics_list_spec">Молодша медична сестра</p>
+				<p>Медична сестра алергологічного центру</p>
+				</div>
+			</div>
+			<div class="medics_page_record">
+				<img src="../../GravCMS/user/themes/mytheme/img/doctor2.svg">
+				<div>
+				<p class="medics_list_name">Скляр Олена Михайлівна</p>
+				<p class="medics_list_spec">Молодша медична сестра</p>
+				<p>Медична сестра алергологічного центру</p>
+				</div>
+			</div>
+			<div class="medics_page_record">
+				<img src="../../GravCMS/user/themes/mytheme/img/doctor2.svg">
+				<div>
+				<p class="medics_list_name">Олійник Людмила Анатоліївна</p>
+				<p class="medics_list_spec">Молодша медична сестра буфетниця</p>
+				<p>Медична сестра алергологічного центру</p>
+				</div>
+			</div>
+			<div class="medics_page_record">
+				<img src="../../GravCMS/user/themes/mytheme/img/doctor2.svg">
+				<div>
+				<p class="medics_list_name">Підгорна Марина Анатоліївна</p>
+				<p class="medics_list_spec">Молодша медична сестра буфетниця</p>
+				<p>Медична сестра алергологічного центру</p>
+				</div>
+			</div>
+		</section>
+	</section>
+</section>

@@ -1,0 +1,436 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+body{
+	margin: 0;
+	font-family: "Raleway", sans-serif;
+}
+.header{
+	background: #00abeb;
+	padding: 15px 10px;
+	position: sticky;
+	top: 0;
+	z-index: 999;
+}
+.container{
+	max-width: 960px;
+	margin: auto;
+	box-sizing: border-box;
+}
+.header-container{
+	display: flex;
+	justify-content: space-between; 
+	align-items: center;
+	width: calc(100% - 20px);
+}
+.header-links{
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	align-items: end;
+}
+.header-links a, .header-links a:visited{
+	color: #ffffff;
+	text-decoration: none;
+	padding: 5px 15px;
+}
+.header-container img, #footer-img{
+	max-height: 100px;
+}
+.header-button{
+	display: inline-flex;
+	align-items: center;
+	font-weight: bold;
+	margin-bottom: 5px;
+}
+.header-dropdown{
+	position: relative;
+	display: inline-block;
+}
+.header-dropdown-inner{
+	position: absolute;
+	background: #ffffff;
+	padding: 5px 0;
+	border-radius: 7px;
+	box-shadow: 3px 5px 5px rgba(0, 0, 0, 0.4);
+	display: none;
+}
+.header-dropdown-inner a, .header-dropdown-inner a:visited{
+	color: #000000;
+}
+.header_menu_button{
+	display: none;
+}
+.hero-section{
+	width: 100%;
+	min-height: 100vh;
+	box-sizing: border-box;
+	background: tan;
+	background-image: url('../img/unnamed.jpg');
+	background-size: cover;
+}
+.hero-container{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: flex-end;
+	height: 100vh;
+}
+.hero-text{
+	background: #ffffff;
+	color: darkblue;
+	font-weight: bold;
+	font-size: 40px;
+	padding: 60px 40px 80px 80px;
+	max-width: 400px;
+	border-top-left-radius: 33% 45%;
+	border-bottom-left-radius: 67% 55%;
+	border-top-right-radius: 67% 45%;
+	border-bottom-right-radius: 33% 55%;
+	box-shadow: 0 0 1px 10px rgba(256, 256, 256, 0.5);
+}
+.hero-button{
+	background: #00abeb;
+	font-weight: bold;
+	font-size: 30px;
+	padding: 40px 20px 40px 20px;
+	max-width: 300px;
+	border-top-left-radius: 40% 45%;
+	border-bottom-left-radius: 60% 55%;
+	border-top-right-radius: 60% 45%;
+	border-bottom-right-radius: 40% 55%;
+	box-shadow: 0 0 1px 10px rgba(0, 192, 245, 0.5);
+	text-align: center;
+}
+.hero-button a, .hero-button a:visited{
+	color: #ffffff;
+	text-decoration: none;
+}
+.description{
+	padding: 50px 10px;
+}
+.description-text{
+	display: flex;
+	justify-content: space-between; 
+}
+.description-text-main h1{
+	text-align: center;
+	margin-bottom: 35px;
+}
+.description-text-main h1 span, .medics h1{
+	text-decoration: underline;
+	text-decoration-color: #00abeb;
+	text-underline-offset: 6px;
+}
+.description-text img{
+	width: 100%;
+	max-width: 400px;
+}
+.description-slides{
+	display: flex;
+	gap: 50px;
+	flex-wrap: nowrap;
+	overflow: hidden;
+	width: 100%;
+	position: relative;
+	max-width: 1500px;
+   margin: 20px auto 0;
+}
+.description-slide{
+	height: 300px;
+	width: 300px;
+	max-width: 100%;
+	background-size: 100% 300px;
+	background-repeat: no-repeat;
+	flex-grow: 0;
+	flex-shrink: 0;
+	z-index: 1;
+}
+.prev_slide, .next_slide{
+	position: absolute;
+	top: 110px;
+	color: #00abeb;
+	background-color: #ffffff;
+	font-size: 36px;
+	padding: 16px 31px;
+	border-radius: 50%;
+	z-index: 100;
+	animation: none !important;
+}
+.prev_slide{
+	left: 15px;
+	box-shadow: 8px 8px 10px 5px rgba(0, 0, 0, 0.5);
+}
+.next_slide{
+	right: 15px;
+	box-shadow: -8px 8px 10px 5px rgba(0, 0, 0, 0.5);
+}
+.medics h1, .medics_page h1{
+	text-align: center;
+}
+.medics_list{
+	display: flex;
+	gap: 20px;
+	width: 100%;
+	margin: 40px auto 30px;
+}
+.medics_list div{
+	flex: 1;
+	text-align: center;
+}
+.medics_list img{
+	width: 240px;
+	max-width: 100%;
+	border-radius: 50%;
+}
+.medics_list_name, .medics_list_spec{
+	font-weight: bold;
+}
+.medics_lists{
+	display: flex;
+	gap: 100px;
+	justify-content: center;
+	align-items: center;
+}
+.medics_lists a {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+}
+.medics_lists button{
+	border: 0;
+    background: #00abeb;
+    color: #ffffff;
+    font-size: 16px;
+    padding: 8px 16px;
+    border-radius: 8px;
+    flex: 1;
+    height: 100%;
+    white-space: nowrap;
+}
+.medics_lists button strong{
+	font-size: 13px;
+}
+.services{
+	background: #00abeb;
+	color: #ffffff;
+	text-align: center;
+}
+.services h1{
+	margin-bottom: 30px;
+}
+.services p{
+	text-align: left;
+	margin: 10px 0;
+}
+.services_list{
+	display: flex;
+	gap: 30px;
+	margin-bottom: 30px;
+	align-items: stretch;
+}
+.services_list div{
+	background: #FFD700;
+	color: #000000;
+	padding: 10px;
+	border-radius: 10px;
+	flex: 1;
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start; 
+}
+.service_price{
+	font-weight: bold;
+	text-align: center !important;
+}
+.services_details, .services_details:visited{
+	color: #ffffff;
+	text-align: center;
+	font-size: 18px;
+}
+.reviews-container{
+	width: 100%;
+	position: relative;
+}
+.reviews-single{
+	display: none;
+}
+.numbertext{
+	background-color: rgba(0,0,0,0.8);
+	color: #ffffff;
+	padding: 5px 7px;
+	display: inline-block;
+}
+.review-text{
+	width: calc(100% - 100px);
+	margin: auto;
+}
+.review-author{
+	text-align: right;
+	font-weight: bold;
+}
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  margin-top: -22px;
+  padding: 16px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+  background: rgba(0, 0, 0, 0.5);
+}
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+  background-color: #717171;
+}
+.fade {
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+.contacts, .reviews, .medics, .services, .medics_page, .services_page, .privacy{
+	padding: 30px 10px;
+}
+.contacts h1, .reviews h1, .services_page h1, .privacy h1{
+	text-align: center;
+}
+.contacts_map{
+	display: flex;
+	justify-content: center;
+}
+.footer{
+	background-image: url('../img/footer.webp');
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 40px 60px;
+}
+.footer-container{
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	column-gap: calc(100% / 3);
+	row-gap: 30px;
+}
+.footer-container a, .footer-container a:visited{
+	color: #000000;
+	text-decoration: none;
+}
+.footer-container a:hover{
+	color: #9ACD32;
+}
+.footer-links{
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+	column-gap: 15px;
+}
+.footer-contacts{
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+}
+.footer-copy{
+	font-size: 12px;
+}
+.footer-social{
+	font-size: 20px;
+}
+.medics_page_list{
+	margin-top: 40px;
+}
+.medics_page_record{
+	display: flex;
+	align-items: center;
+	margin-top: 20px;
+}
+.medics_page_record img{
+	border-radius: 50%;
+	max-height: 180px;
+	margin-right: 20px;
+}
+.services_page h1{
+	margin-bottom: 30px;
+}
+@media screen and (max-width: 650px){
+	.header-container{
+		flex-direction: column;
+	}
+	.header_menu_button{
+		display: inline;
+		border: 0;
+		background: rgba(0,0,0,0);
+		color: #ffffff;
+		font-size: 30px;
+	}
+	.header_top{
+		width: 100%;
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+	}
+	.header-links-bottom{
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		width: 100%;
+	}
+	.header-dropdown{
+		padding: 5px 15px;
+	}
+	.header-links{
+		margin-top: 15px;
+		display: none;
+	}
+	.medics_list, .services_list{
+		flex-direction: column;
+	}
+	.medics_lists{
+		gap: 75px;
+	}
+	.footer-container, .footer-links{
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+	}
+	.footer-links{
+		gap: 5px;
+	}
+	.description-text{
+		flex-direction: column;
+		justify-content: flex-start;
+		align-items: center;
+	}
+	.medics_page_record{
+		flex-direction: column;
+	}
+	.medics_page_record div{
+		text-align: center;
+	}
+}
+@media screen and (max-width: 950px) and (min-width: 650px){
+	.hero-container{
+		width: calc(100% - 40px) !important;
+	}
+}

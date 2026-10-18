@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="{{ url('theme://css/style.css') }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <header class="header">
+    <section class="container header-container">
+    	<div class="header_top">
+        <img src="{{ url('theme://img/logo.png') }}">
+        <button class="header_menu_button" onclick="showDropdown('navlinks')"><i class="fa-solid fa-bars"></i></button>
+      </div>
+        <nav class="header-links" id="navlinks">
+        		<a href="#contacts" class="header-button"><i class="fa-solid fa-phone"></i>&nbsp;Записатися на прийом</a>
+        		<div class="header-links-bottom">
+            <a href="{{ url('home') }}">Головна</a>
+            <div class="header-dropdown"><a onclick="showDropdown('hdi')">Лікарі</a><div class="header-dropdown-inner" id="hdi">
+            	<a href="{{ url('adult-doctors') }}">Дорослі</a>
+            	<a href="{{ url('kids-doctors') }}">Дитячі</a>
+            </div></div>
+            <a href="{{ url('services') }}">Послуги</a>
+            <a href="#contacts">Контакти</a>
+            </div>
+        </nav>
+    </section>
+    </header>
+    {% block content %}
+    	{{ page.content|raw }}
+    {% endblock %}
+    <section class="contacts" name="contacts" id="contacts">
+    	<section class="container">
+    		<h1>Як нас знайти</h1>
+    		<p>Дзвоніть за номером телефону: +38(098)-671-19-14</p>
+    		<p>Адреса та години роботи: вул.Степана Бандери, 28, Дніпро; пн-пт - 08:30-15:00, сб-нд - цілодобово</p>
+    		<div class="contacts_map">
+    			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2645.7335821626934!2d35.0147491764416!3d48.46164107128115!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40dbe3030a8c3aa3%3A0x47ffc84f3b8f2e48!2z0JzRltGB0YzQutCwINC60LvRltC90LjRh9C90LAg0LvRltC60LDRgNC90Y8g4oSWNywg0JDQu9C10YDQs9C-0LvQvtCz0ZbRh9C90LUg0LLRltC00LTRltC70LXQvdC90Y8!5e0!3m2!1sru!2sua!4v1778347867603!5m2!1sru!2sua" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    		</div>
+    	</section>
+    <section>
+    <footer class="footer">
+    	<section class="container footer-container">
+    		<div class="footer-links">
+    			<span><a href="{{ url('privacy') }}">Політика конфіденційності</a></span>
+    			<span><a href="{{ url('dozvil') }}">Ліцензії</a></span>
+    		</div>
+    		<div class="footer-contacts">
+    			<span>+38(098)-671-19-14</span>
+    			<span>вул.Степана Бандери, 28, Дніпро<br>Пн-пт - 08:30-15:00, сб-нд - цілодобово</span>
+    		</div>
+    		<div class="footer-copy">Алергологічний центр &copy; 2026</div>
+    		<div class="footer-social">
+    			<a href="#"><i class="fa-brands fa-instagram"></i></a>
+    			<a href="#"><i class="fa-brands fa-facebook"></i></a>
+    		</div>
+    	</section>
+    </footer>
+    <script>
+    	function showDropdown(el_id){
+    		if(document.getElementById(el_id).style.display != "flex"){
+    			document.getElementById(el_id).style.display = "flex";
+    			document.getElementById(el_id).style.flexDirection = "column";
+    		}else{
+    			document.getElementById(el_id).style.display = "none";
+    		}
+    	}
+    </script>
+</body>
+</html>

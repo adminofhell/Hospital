@@ -1,0 +1,123 @@
+---
+title: Home
+body_classes: 'title-center title-h1h2'
+---
+<section class="hero-section">
+	<section class="container hero-container">
+		<div class="hero-text">Допомагаємо дихати вільно без алергії</div>
+		<div class="hero-button"><a href="#">Записатися на консультацію</a></div>
+	</section>
+</section>
+<main>
+	<section class="description">
+		<section class="container description-text">
+			<div class="description-text-main">
+				<h1>Про <span>Алергологічний центр</span></h1>
+				<p>Це текст для заповнення блоку веб-сайту. Потім цей текст буде змінений на наданий замовником. Тут буде опис медичного закладу, його обладнання, процедур, які тут проводять.</p>
+			</div>
+			<img src="https://i.ibb.co/zT845BTr/7.jpg">
+		</section>
+		<section class="description-slides">
+			<div style="background-image: url('../../GravCMS/user/themes/mytheme/img/8.jpeg'); order: 0;" class="description-slide"></div>
+			<div style="background-image: url('../../GravCMS/user/themes/mytheme/img/9.jpeg'); order: 1;" class="description-slide"></div>
+			<div style="background-image: url('../../GravCMS/user/themes/mytheme/img/10.jpeg'); order: 2;" class="description-slide"></div>
+			<div style="background-image: url('../../GravCMS/user/themes/mytheme/img/1.jpeg'); order: 3;" class="description-slide"></div>
+			<div style="background-image: url('../../GravCMS/user/themes/mytheme/img/2.jpeg'); order: 4;" class="description-slide"></div>
+			<div style="background-image: url('../../GravCMS/user/themes/mytheme/img/3.jpeg'); order: 5;" class="description-slide"></div>
+			<div style="background-image: url('../../GravCMS/user/themes/mytheme/img/4.jpeg'); order: 6;" class="description-slide"></div>
+			<div style="background-image: url('../../GravCMS/user/themes/mytheme/img/5.jpeg'); order: 7;" class="description-slide"></div>
+			<div style="background-image: url('../../GravCMS/user/themes/mytheme/img/6.jpeg'); order: 8;" class="description-slide"></div>
+			<a class="prev_slide" onclick="movePhotos(1)">&#10094;</a>
+  			<a class="next_slide" onclick="movePhotos(-1)">&#10095;</a>
+		</section>
+	</section>
+	<section class="medics">
+		<section class="container">
+			<h1>Наші лікарі</h1>
+			<section class="medics_list">
+				<div>
+					<img src="../../GravCMS/user/themes/mytheme/img/DSC_2032.jpg">
+					<p class="medics_list_name">Бендецька Юлія Валентинівна</p>
+					<p class="medics_list_spec">лікар-алерголог вищої категорії</p>
+					<p>Лікар алергологічного центру</p>
+				</div>
+				<div>
+					<img src="../../GravCMS/user/themes/mytheme/img/DSC_2022.jpg">
+					<p class="medics_list_name">Орлов Станіслав Сергійович</p>
+					<p class="medics_list_spec">лікар-алерголог</p>
+					<p>Лікар алергологічного центру</p>
+				</div>
+				<div>
+					<img src="../../GravCMS/user/themes/mytheme/img/DSC_2098.jpg">
+					<p class="medics_list_name">Таран Степанія Миколаївна</p>
+					<p class="medics_list_spec">Лікар-алерголог дитячий вищої категорії</p>
+					<p>Лікар алергологічного центру</p>
+				</div>
+			</section>
+			<section class="medics_lists">
+				<a href="../../GravCMS/adult-doctors"><button>Дорослі лікарі<br><strong>повний список</strong></button></a>
+				<a href="../../GravCMS/kids-doctors"><button>Дитячі лікарі<br><strong>повний список</strong></button></a>
+			</section>
+		</section>
+	</section>
+	<section class="services">
+		<section class="container">
+			<h1>Послуги Алергологічного центру</h1>
+			<section class="services_list">
+				<div>
+					<h2>Назва послуги</h2>
+					<p>Короткий опис послуги. Що саме роблять і для чого. Які покази і протипоказання.</p>
+				</div>
+				<div>
+					<h2>Назва послуги</h2>
+					<p>Короткий опис послуги. Що саме роблять і для чого. Які покази і протипоказання. Можливо, ще якийсь текст, для тестування різниці у висоті блоків.</p>
+				</div>
+				<div>
+					<h2>Назва послуги</h2>
+					<p>Короткий опис послуги. Що саме роблять і для чого. Які покази і протипоказання.</p>
+				</div>
+			</section>
+			<a href="#" class="services_details">Детальніше про послуги</a>
+		</section>
+	</section>
+</main>
+<section class="reviews">
+		<section class="container">
+			<h1>Відгуки пацієнтів</h1>
+			<div class="reviews-container">
+			<div class="reviews-single fade">
+				<div class="numbertext">1 / 3</div>
+				<div class="review-text">
+					<p>Лежала в отделении почти две недели. Очень понравилось. Плата 208, солнечная, теплая (дело было в феврале, летом наверное душно), новый, свежий ремонт. В комнате достаточно розеток, есть холодильник а так же зеркало и умывальник. Кровати панцирные. Постель выдали чистую, белую, без пятен.  Часто убирают в палатах санитары, Моют пол, протирают пыль.  Можно принять душ, который находится на этаже. Столовая современная, доступ к электрочайнику и микроволновке в любое время.</p>
+					<p>Питание диетическое, вкусное, особенно понравилась уха, никогда такой вкусной не ела. Так же давали борщ, овощной суп, рис с овощами, гречку, манку, рагу, макароны, чай, в обед компот из сухофруктов.</p>
+					<p>Медперсонал приветливый, профессионально ставят капельницы.</p>
+					<p>Побольше бы таких отделений, и в больнице было бы не так грустно лежать.</p>
+					<p class="review-author"> - Міла</p>
+				</div>
+			</div>
+			<div class="reviews-single fade">
+				<div class="numbertext">2 / 3</div>
+				<div class="review-text">
+					<p>Проходив лікування у стаціонарі на другому поверху. Хочу подякувати за допомогу в лікуванні, гарне відношення лікаря, мед. персоналу, чудову їдальню, чисту та відремонтовану лікарню.</p>
+					<p class="review-author"> - Захар</p>
+				</div>
+			</div>
+			<div class="reviews-single fade">
+				<div class="numbertext">3 / 3</div>
+				<div class="review-text">
+					<p>Хочу оставить положительный отзыв, терапевтическому отделению, что на 3 этаже.</p>
+					<p>Профессионалы, врачи и медсестры с большой буквы. Вежливые и очень добрые.</p>
+					<p>Огромное спасибо дежурному врачу терапии, которая  помогла нам справиться с острой болью в груди, когда мы приехали поздним вечером и положила нас в отделение. Помогли в критической ситуации, протянули руку помощи. Большое Вам спасибо.</p>
+					<p class="review-author"> - Дмитро Володимирович</p>
+				</div>
+			</div>
+			<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+  			<a class="next" onclick="plusSlides(1)">&#10095;</a>
+  			</div>
+  			<div style="text-align:center">
+  				<span class="dot" onclick="currentSlide(1)"></span>
+  				<span class="dot" onclick="currentSlide(2)"></span>
+  				<span class="dot" onclick="currentSlide(3)"></span>
+			</div>
+		</section>
+	</section>
