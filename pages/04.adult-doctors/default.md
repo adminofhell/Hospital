@@ -6,11 +6,11 @@ title: Лікарі
 		<h1>Лікарі Алергологічного центру</h1>
 		<section class="medics_page_list">
 			<div class="medics_page_record">
-				<img src="../../GravCMS/user/themes/mytheme/img/doctor2.svg">
+				<img src="../../GravCMS/user/themes/mytheme/img/IMG_0627.jpg">
 				<div>
 				<p class="medics_list_name">Дитятковська Євгенія Михайлівна</p>
-				<p class="medics_list_spec">окремо</p>
-				<p>Лікар алергологічного центру</p>
+				<p class="medics_list_spec">Керівник алергологічного центру</p>
+				<p>Українська лікарка-алергологиня, докторка медичних наук, професорка, Заслужена лікарка України</p>
 				</div>
 			</div>
 			<div class="medics_page_record">
@@ -30,7 +30,7 @@ title: Лікарі
 				</div>
 			</div>
 			<div class="medics_page_record">
-				<img src="../../GravCMS/user/themes/mytheme/img/doctor2.svg">
+				<img src="../../GravCMS/user/themes/mytheme/img/DSC_2082.jpeg">
 				<div>
 				<p class="medics_list_name">Родкіна Ізабелла Анатоліївна</p>
 				<p class="medics_list_spec">лікар-алерголог вищої категорії</p>
@@ -46,7 +46,7 @@ title: Лікарі
 				</div>
 			</div>
 			<div class="medics_page_record">
-				<img src="../../GravCMS/user/themes/mytheme/img/doctor2.svg">
+				<img src="../../GravCMS/user/themes/mytheme/img/DSC_2048.jpeg">
 				<div>
 				<p class="medics_list_name">Романова Анна Анатоліївна</p>
 				<p class="medics_list_spec">лікар-алерголог вищої категорії</p>

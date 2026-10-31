@@ -6,11 +6,11 @@ title: Лікарі
 		<h1>Лікарі Алергологічного центру</h1>
 		<section class="medics_page_list">
 			<div class="medics_page_record">
-				<img src="../../GravCMS/user/themes/mytheme/img/doctor2.svg">
+				<img src="../../GravCMS/user/themes/mytheme/img/IMG_0627.jpg">
 				<div>
 				<p class="medics_list_name">Дитятковська Євгенія Михайлівна</p>
-				<p class="medics_list_spec">окремо</p>
-				<p>Лікар алергологічного центру</p>
+				<p class="medics_list_spec">Керівник алергологічного центру</p>
+				<p>Українська лікарка-алергологиня, докторка медичних наук, професорка, Заслужена лікарка України</p>
 				</div>
 			</div>
 			<div class="medics_page_record">
@@ -30,7 +30,7 @@ title: Лікарі
 				</div>
 			</div>
 			<div class="medics_page_record">
-				<img src="../../GravCMS/user/themes/mytheme/img/doctor2.svg">
+				<img src="../../GravCMS/user/themes/mytheme/img/DSC_2082.jpeg">
 				<div>
 				<p class="medics_list_name">Родкіна Ізабелла Анатоліївна</p>
 				<p class="medics_list_spec">лікар-алерголог вищої категорії</p>
@@ -46,7 +46,7 @@ title: Лікарі
 				</div>
 			</div>
 			<div class="medics_page_record">
-				<img src="../../GravCMS/user/themes/mytheme/img/doctor2.svg">
+				<img src="../../GravCMS/user/themes/mytheme/img/DSC_2048.jpg">
 				<div>
 				<p class="medics_list_name">Романова Анна Анатоліївна</p>
 				<p class="medics_list_spec">лікар-алерголог вищої категорії</p>
@@ -190,7 +190,7 @@ title: Лікарі
 				</div>
 			</div>
 			<div class="medics_page_record">
-				<img src="#">
+				<img src="../../GravCMS/user/themes/mytheme/img/doctor2.svg">
 				<div>
 				<p class="medics_list_name">Штефан Оксана Володимирівна</p>
 				<p class="medics_list_spec">Медична сестра</p>
@@ -198,7 +198,7 @@ title: Лікарі
 				</div>
 			</div>
 			<div class="medics_page_record">
-				<img src="#">
+				<img src="../../GravCMS/user/themes/mytheme/img/doctor2.svg">
 				<div>
 				<p class="medics_list_name">Берлінська Тетяна Петрівна</p>
 				<p class="medics_list_spec">Медична сестра</p>
@@ -206,7 +206,7 @@ title: Лікарі
 				</div>
 			</div>
 			<div class="medics_page_record">
-				<img src="#">
+				<img src="../../GravCMS/user/themes/mytheme/img/doctor2.svg">
 				<div>
 				<p class="medics_list_name">Лепетя Людмила Павлівна</p>
 				<p class="medics_list_spec">сестра - господарка</p>
@@ -214,7 +214,7 @@ title: Лікарі
 				</div>
 			</div>
 			<div class="medics_page_record">
-				<img src="#">
+				<img src="../../GravCMS/user/themes/mytheme/img/doctor2.svg">
 				<div>
 				<p class="medics_list_name">Летуча Валентина Андріївна</p>
 				<p class="medics_list_spec">буфетниця</p>
@@ -222,7 +222,7 @@ title: Лікарі
 				</div>
 			</div>
 			<div class="medics_page_record">
-				<img src="#">
+				<img src="../../GravCMS/user/themes/mytheme/img/doctor2.svg">
 				<div>
 				<p class="medics_list_name">Нікодимова Алла Олександрівна</p>
 				<p class="medics_list_spec">Молодша медична сестра</p>
@@ -230,7 +230,7 @@ title: Лікарі
 				</div>
 			</div>
 			<div class="medics_page_record">
-				<img src="#">
+				<img src="../../GravCMS/user/themes/mytheme/img/doctor2.svg">
 				<div>
 				<p class="medics_list_name">Русавіна Людмила Василівна</p>
 				<p class="medics_list_spec">Молодша медична сестра</p>
@@ -238,7 +238,7 @@ title: Лікарі
 				</div>
 			</div>
 			<div class="medics_page_record">
-				<img src="#">
+				<img src="../../GravCMS/user/themes/mytheme/img/doctor2.svg">
 				<div>
 				<p class="medics_list_name">Фалько Тетяна Дмитрівна</p>
 				<p class="medics_list_spec">Молодша медична сестра</p>
@@ -246,7 +246,7 @@ title: Лікарі
 				</div>
 			</div>
 			<div class="medics_page_record">
-				<img src="#">
+				<img src="../../GravCMS/user/themes/mytheme/img/doctor2.svg">
 				<div>
 				<p class="medics_list_name">Хайко Людмила Анатоліївна</p>
 				<p class="medics_list_spec">Молодша медична сестра</p>
@@ -254,7 +254,7 @@ title: Лікарі
 				</div>
 			</div>
 			<div class="medics_page_record">
-				<img src="#">
+				<img src="../../GravCMS/user/themes/mytheme/img/doctor2.svg">
 				<div>
 				<p class="medics_list_name">Михайлова Наталія Вікторівна</p>
 				<p class="medics_list_spec">Молодша медична сестра</p>
@@ -262,7 +262,7 @@ title: Лікарі
 				</div>
 			</div>
 			<div class="medics_page_record">
-				<img src="#">
+				<img src="../../GravCMS/user/themes/mytheme/img/doctor2.svg">
 				<div>
 				<p class="medics_list_name">Кириченко Тетяна Андріївна</p>
 				<p class="medics_list_spec">Молодша медична сестра</p>
@@ -270,7 +270,7 @@ title: Лікарі
 				</div>
 			</div>
 			<div class="medics_page_record">
-				<img src="#">
+				<img src="../../GravCMS/user/themes/mytheme/img/doctor2.svg">
 				<div>
 				<p class="medics_list_name">Бур’ян Аліма Василівна</p>
 				<p class="medics_list_spec">Молодша медична сестра</p>
@@ -278,7 +278,7 @@ title: Лікарі
 				</div>
 			</div>
 			<div class="medics_page_record">
-				<img src="#">
+				<img src="../../GravCMS/user/themes/mytheme/img/doctor2.svg">
 				<div>
 				<p class="medics_list_name">Зелінська Оксана Вікторівна</p>
 				<p class="medics_list_spec">Медичний реєстратор</p>
@@ -286,7 +286,7 @@ title: Лікарі
 				</div>
 			</div>
 			<div class="medics_page_record">
-				<img src="#">
+				<img src="../../GravCMS/user/themes/mytheme/img/doctor2.svg">
 				<div>
 				<p class="medics_list_name">Баркашова Лариса Володимирівна</p>
 				<p class="medics_list_spec">Медичний реєстратор</p>

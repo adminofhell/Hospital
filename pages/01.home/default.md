@@ -36,6 +36,26 @@ body_classes: 'title-center title-h1h2'
 			<h1>Наші лікарі</h1>
 			<section class="medics_list">
 				<div>
+					<img src="../../GravCMS/user/themes/mytheme/img/IMG_0627.jpg">
+					<p class="medics_list_name">Дитятковська Євгенія Михайлівна</p>
+					<p class="medics_list_spec">Керівник алергологічного центру</p>
+					<p>Українська лікарка-алергологиня, докторка медичних наук, професорка, Заслужена лікарка України</p>
+				</div>
+				<div>
+					<img src="../../GravCMS/user/themes/mytheme/img/DSC_2082.jpeg">
+					<p class="medics_list_name">Родкіна Ізабелла Анатоліївна</p>
+					<p class="medics_list_spec">лікар-алерголог вищої категорії</p>
+					<p>Лікар алергологічного центру</p>
+				</div>
+				<div>
+					<img src="../../GravCMS/user/themes/mytheme/img/DSC_2048.jpeg">
+					<p class="medics_list_name">Романова Анна Анатоліївна</p>
+					<p class="medics_list_spec">лікар-алерголог вищої категорії</p>
+					<p>Лікар алергологічного центру</p>
+				</div>
+			</section>
+			<section class="medics_list">
+				<div>
 					<img src="../../GravCMS/user/themes/mytheme/img/DSC_2032.jpg">
 					<p class="medics_list_name">Бендецька Юлія Валентинівна</p>
 					<p class="medics_list_spec">лікар-алерголог вищої категорії</p>
